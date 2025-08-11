@@ -118,7 +118,7 @@ response = client.chat.completions.create(
 ### Pasos de Instalación
 ```bash
 # Clonar repositorio
-git clone https://github.com/tu-usuario/planificador-viajes-ia.git
+git clone https://github.com/Acquarts/planificador-viajes-ia
 cd planificador-viajes-ia
 
 # Crear entorno virtual
