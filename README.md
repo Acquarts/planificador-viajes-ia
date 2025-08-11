@@ -84,7 +84,7 @@ response = client.chat.completions.create(
 
 ### 1. Acceso Directo
 ```
-👉 https://tu-app-url.streamlit.app
+👉 https://planificador-viajes-ia.streamlit.app
 ```
 **No requiere instalación ni configuración**
 
