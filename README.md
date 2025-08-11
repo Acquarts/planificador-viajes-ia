@@ -318,7 +318,7 @@ Demostrar que las técnicas de IA Generativa pueden crear experiencias personali
 - 📧 **Documentación**: Detalles adicionales en docs/
 
 ### Para la Comunidad Técnica
-- 🌐 **Demo en Vivo**: https://tu-app-url.streamlit.app
+- 🌐 **Demo en Vivo**: https://planificador-viajes-ia.streamlit.app/
 - 💻 **Código Fuente**: GitHub Repository
 - 📖 **Documentación**: README.md y docs/
 
